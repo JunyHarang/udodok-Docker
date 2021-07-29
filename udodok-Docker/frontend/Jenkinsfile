@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('frontend-build') {
+            steps {
+                sh "npm install",
+                sh "npm run build",
+            }
+        }
+    }
+}
