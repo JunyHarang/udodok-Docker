@@ -1,0 +1,66 @@
+udodog/goGetterServer/service/event/EventServiceTest.java
+ udodog.goGetterServer.service.event.EventServiceTest
+udodog/goGetterServer/service/message/MessageSenderServiceTest.java
+ udodog.goGetterServer.service.message.MessageSenderServiceTest
+udodog/goGetterServer/repository/BookReportTagRepositoryTest.java
+ udodog.goGetterServer.repository.BookReportTagRepositoryTest
+udodog/goGetterServer/controller/api/coupon/CouponControllerTest.java
+ udodog.goGetterServer.controller.api.coupon.CouponControllerTest
+udodog/goGetterServer/repository/DiscussonBoardRepositoryTest.java
+ udodog.goGetterServer.repository.DiscussonBoardRepositoryTest
+udodog/goGetterServer/repository/SharingBoardLikeRepositoryTest.java
+ udodog.goGetterServer.repository.SharingBoardLikeRepositoryTest
+udodog/goGetterServer/repository/MessageNotificationOffRepositoryTest.java
+ udodog.goGetterServer.repository.MessageNotificationOffRepositoryTest
+udodog/goGetterServer/repository/AdvertisementManagementRepositoryTest.java
+ udodog.goGetterServer.repository.AdvertisementManagementRepositoryTest
+udodog/goGetterServer/repository/EventRepositoryTest.java
+ udodog.goGetterServer.repository.EventRepositoryTest
+udodog/goGetterServer/repository/MessageRepositoryTest.java
+ udodog.goGetterServer.repository.MessageRepositoryTest
+udodog/goGetterServer/controller/api/user/UserControllerTest.java
+ udodog.goGetterServer.controller.api.user.UserControllerTest
+udodog/goGetterServer/repository/UserRepositoryTest.java
+ udodog.goGetterServer.repository.UserRepositoryTest
+udodog/goGetterServer/controller/api/event/EventControllerTest.java
+ udodog.goGetterServer.controller.api.event.EventControllerTest
+udodog/goGetterServer/repository/DiscussonBoardReadhitRepositoryTest.java
+ udodog.goGetterServer.repository.DiscussonBoardReadhitRepositoryTest
+udodog/goGetterServer/repository/querydsl/EventQueryRepositoryTest.java
+ udodog.goGetterServer.repository.querydsl.EventQueryRepositoryTest
+udodog/goGetterServer/repository/CouponUseHistoryRepositoryTest.java
+ udodog.goGetterServer.repository.CouponUseHistoryRepositoryTest
+udodog/goGetterServer/repository/SharingBoardReplyRepositoryTest.java
+ udodog.goGetterServer.repository.SharingBoardReplyRepositoryTest
+udodog/goGetterServer/GoGetterServerApplicationTests.java
+ udodog.goGetterServer.GoGetterServerApplicationTests
+udodog/goGetterServer/controller/api/sharingboard/SharingBoardControllerTest.java
+ udodog.goGetterServer.controller.api.sharingboard.SharingBoardControllerTest
+udodog/goGetterServer/controller/api/discussion/DiscussionControllerTest.java
+ udodog.goGetterServer.controller.api.discussion.DiscussionControllerTest
+udodog/goGetterServer/config/TestConfig.java
+ udodog.goGetterServer.config.TestConfig
+udodog/goGetterServer/repository/SharingBoardRepositoryTest.java
+ udodog.goGetterServer.repository.SharingBoardRepositoryTest
+udodog/goGetterServer/repository/BookReportRepositoryTest.java
+ udodog.goGetterServer.repository.BookReportRepositoryTest
+udodog/goGetterServer/service/coupon/CouponServiceTest.java
+ udodog.goGetterServer.service.coupon.CouponServiceTest
+udodog/goGetterServer/repository/DiscussonBoardReplyRepositoryTest.java
+ udodog.goGetterServer.repository.DiscussonBoardReplyRepositoryTest
+udodog/goGetterServer/controller/api/message/MessageSenderControllerTest.java
+ udodog.goGetterServer.controller.api.message.MessageSenderControllerTest
+udodog/goGetterServer/controller/SampleControllerTest.java
+ udodog.goGetterServer.controller.SampleControllerTest
+udodog/goGetterServer/repository/querydsl/CouponQueryRepositoryTest.java
+ udodog.goGetterServer.repository.querydsl.CouponQueryRepositoryTest
+udodog/goGetterServer/repository/SharingBoardTagRepositoryTest.java
+ udodog.goGetterServer.repository.SharingBoardTagRepositoryTest
+udodog/goGetterServer/service/user/UserServiceTest.java
+ udodog.goGetterServer.service.user.UserServiceTest
+udodog/goGetterServer/repository/CouponRepositoryTest.java
+ udodog.goGetterServer.repository.CouponRepositoryTest
+udodog/goGetterServer/controller/api/discussion/DiscussionReplyControllerTest.java
+ udodog.goGetterServer.controller.api.discussion.DiscussionReplyControllerTest
+udodog/goGetterServer/repository/LibraryLocationRepositoryTest.java
+ udodog.goGetterServer.repository.LibraryLocationRepositoryTest

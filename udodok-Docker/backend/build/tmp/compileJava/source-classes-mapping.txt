@@ -1,0 +1,443 @@
+udodog/goGetterServer/repository/SharingBoardLikeRepository.java
+ udodog.goGetterServer.repository.SharingBoardLikeRepository
+udodog/goGetterServer/model/dto/request/discussion/DiscussionEditRequest.java
+ udodog.goGetterServer.model.dto.request.discussion.DiscussionEditRequest
+udodog/goGetterServer/model/converter/sharingboard/SharingConverter.java
+ udodog.goGetterServer.model.converter.sharingboard.SharingConverter
+udodog/goGetterServer/model/entity/BookReportTag.java
+ udodog.goGetterServer.model.entity.BookReportTag
+ udodog.goGetterServer.model.entity.BookReportTag$BookReportTagBuilder
+udodog/goGetterServer/repository/querydsl/oauth/UserConnectionQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.oauth.UserConnectionQueryRepository
+udodog/goGetterServer/config/ModelMapperConfig.java
+ udodog.goGetterServer.config.ModelMapperConfig
+udodog/goGetterServer/model/entity/QSharingBoard.java
+ udodog.goGetterServer.model.entity.QSharingBoard
+udodog/goGetterServer/controller/api/sharingboard/SharingBoardWeeklyBestController.java
+ udodog.goGetterServer.controller.api.sharingboard.SharingBoardWeeklyBestController
+udodog/goGetterServer/model/converter/oauth/SocialLoginTypeConverter.java
+ udodog.goGetterServer.model.converter.oauth.SocialLoginTypeConverter
+udodog/goGetterServer/model/entity/QUserConnection.java
+ udodog.goGetterServer.model.entity.QUserConnection
+udodog/goGetterServer/model/dto/request/user/UserSignInRequestDto.java
+ udodog.goGetterServer.model.dto.request.user.UserSignInRequestDto
+udodog/goGetterServer/model/dto/response/nationwidelibraryinfo/visualization/NationwidelibraryInfoVisualizationDto.java
+ udodog.goGetterServer.model.dto.response.nationwidelibraryinfo.visualization.NationwidelibraryInfoVisualizationDto
+udodog/goGetterServer/repository/DiscussionBoardReplyRepository.java
+ udodog.goGetterServer.repository.DiscussionBoardReplyRepository
+udodog/goGetterServer/model/converter/nationwidelibraryinfo/NationwidelibraryInfoConverter.java
+ udodog.goGetterServer.model.converter.nationwidelibraryinfo.NationwidelibraryInfoConverter
+udodog/goGetterServer/controller/api/message/MessageNotificationController.java
+ udodog.goGetterServer.controller.api.message.MessageNotificationController
+udodog/goGetterServer/service/discussion/DiscussionReplyService.java
+ udodog.goGetterServer.service.discussion.DiscussionReplyService
+udodog/goGetterServer/model/entity/QMessage.java
+ udodog.goGetterServer.model.entity.QMessage
+udodog/goGetterServer/repository/EventRepository.java
+ udodog.goGetterServer.repository.EventRepository
+udodog/goGetterServer/model/dto/request/discussion/DiscussionReplyEditRequest.java
+ udodog.goGetterServer.model.dto.request.discussion.DiscussionReplyEditRequest
+udodog/goGetterServer/model/converter/oauth/OauthConverter.java
+ udodog.goGetterServer.model.converter.oauth.OauthConverter
+udodog/goGetterServer/repository/querydsl/CouponQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.CouponQueryRepository
+udodog/goGetterServer/GoGetterServerApplication.java
+ udodog.goGetterServer.GoGetterServerApplication
+udodog/goGetterServer/model/entity/QMessageRoomJoin.java
+ udodog.goGetterServer.model.entity.QMessageRoomJoin
+udodog/goGetterServer/repository/querydsl/MyPageQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.MyPageQueryRepository
+udodog/goGetterServer/model/entity/QCouponUseHistory.java
+ udodog.goGetterServer.model.entity.QCouponUseHistory
+udodog/goGetterServer/model/dto/request/discussion/DiscussionReplyInsertRequest.java
+ udodog.goGetterServer.model.dto.request.discussion.DiscussionReplyInsertRequest
+udodog/goGetterServer/repository/querydsl/message/MessageNotificationExtensionImpl.java
+ udodog.goGetterServer.repository.querydsl.message.MessageNotificationExtensionImpl
+udodog/goGetterServer/model/entity/QEvent.java
+ udodog.goGetterServer.model.entity.QEvent
+udodog/goGetterServer/repository/SharingBoardReplyRepository.java
+ udodog.goGetterServer.repository.SharingBoardReplyRepository
+udodog/goGetterServer/model/dto/DefaultRes.java
+ udodog.goGetterServer.model.dto.DefaultRes
+ udodog.goGetterServer.model.dto.DefaultRes$DefaultResBuilder
+udodog/goGetterServer/model/dto/request/nationwidelibraryinfo/NationwideLibraryInfoUpdateReqeustDto.java
+ udodog.goGetterServer.model.dto.request.nationwidelibraryinfo.NationwideLibraryInfoUpdateReqeustDto
+udodog/goGetterServer/model/dto/request/user/UserFindPwdRequest.java
+ udodog.goGetterServer.model.dto.request.user.UserFindPwdRequest
+udodog/goGetterServer/model/dto/request/bookreport/BookreportUpdateRequestDto.java
+ udodog.goGetterServer.model.dto.request.bookreport.BookreportUpdateRequestDto
+udodog/goGetterServer/controller/api/coupon/CouponController.java
+ udodog.goGetterServer.controller.api.coupon.CouponController
+udodog/goGetterServer/model/entity/SharingBoardReply.java
+ udodog.goGetterServer.model.entity.SharingBoardReply
+ udodog.goGetterServer.model.entity.SharingBoardReply$SharingBoardReplyBuilder
+udodog/goGetterServer/model/enumclass/oauth/SocialLoginType.java
+ udodog.goGetterServer.model.enumclass.oauth.SocialLoginType
+udodog/goGetterServer/model/entity/QCoupon.java
+ udodog.goGetterServer.model.entity.QCoupon
+udodog/goGetterServer/repository/NationwideLibraryInfoRepository.java
+ udodog.goGetterServer.repository.NationwideLibraryInfoRepository
+udodog/goGetterServer/repository/querydsl/sharingboard/SharingBoardExtensionImpl.java
+ udodog.goGetterServer.repository.querydsl.sharingboard.SharingBoardExtensionImpl
+udodog/goGetterServer/config/WebSocketConfig.java
+ udodog.goGetterServer.config.WebSocketConfig
+udodog/goGetterServer/model/dto/response/ReplaceTokenResponseDto.java
+ udodog.goGetterServer.model.dto.response.ReplaceTokenResponseDto
+udodog/goGetterServer/repository/CouponRepository.java
+ udodog.goGetterServer.repository.CouponRepository
+udodog/goGetterServer/model/dto/response/bookreporttag/BookReportTagResponseDto.java
+ udodog.goGetterServer.model.dto.response.bookreporttag.BookReportTagResponseDto
+udodog/goGetterServer/repository/querydsl/message/MessageNotificationExtension.java
+ udodog.goGetterServer.repository.querydsl.message.MessageNotificationExtension
+udodog/goGetterServer/config/WebMvcConfig.java
+ udodog.goGetterServer.config.WebMvcConfig
+udodog/goGetterServer/controller/api/message/MessageFindAllController.java
+ udodog.goGetterServer.controller.api.message.MessageFindAllController
+udodog/goGetterServer/model/dto/response/user/UserSignInResponseDto.java
+ udodog.goGetterServer.model.dto.response.user.UserSignInResponseDto
+udodog/goGetterServer/repository/querydsl/UserQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.UserQueryRepository
+udodog/goGetterServer/model/entity/Coupon.java
+ udodog.goGetterServer.model.entity.Coupon
+ udodog.goGetterServer.model.entity.Coupon$CouponBuilder
+udodog/goGetterServer/model/dto/request/mypage/MyPageRequestDto.java
+ udodog.goGetterServer.model.dto.request.mypage.MyPageRequestDto
+udodog/goGetterServer/model/dto/request/user/UserFindEmailRequest.java
+ udodog.goGetterServer.model.dto.request.user.UserFindEmailRequest
+udodog/goGetterServer/model/entity/QMessageRoom.java
+ udodog.goGetterServer.model.entity.QMessageRoom
+udodog/goGetterServer/model/dto/request/sharingboard/DeleteSharingReplyRequest.java
+ udodog.goGetterServer.model.dto.request.sharingboard.DeleteSharingReplyRequest
+udodog/goGetterServer/controller/api/sharingboard/SharingBoardController.java
+ udodog.goGetterServer.controller.api.sharingboard.SharingBoardController
+udodog/goGetterServer/service/bookreport/BookreportService.java
+ udodog.goGetterServer.service.bookreport.BookreportService
+udodog/goGetterServer/model/dto/response/user/JwtAccessTokenResponse.java
+ udodog.goGetterServer.model.dto.response.user.JwtAccessTokenResponse
+udodog/goGetterServer/model/entity/QSharingBoardTag.java
+ udodog.goGetterServer.model.entity.QSharingBoardTag
+udodog/goGetterServer/model/dto/response/manager/search/UserSearchResponseDto.java
+ udodog.goGetterServer.model.dto.response.manager.search.UserSearchResponseDto
+udodog/goGetterServer/repository/UserRepository.java
+ udodog.goGetterServer.repository.UserRepository
+udodog/goGetterServer/model/dto/request/sharingboard/UpdateBoardRequest.java
+ udodog.goGetterServer.model.dto.request.sharingboard.UpdateBoardRequest
+udodog/goGetterServer/model/converter/user/UserConverter.java
+ udodog.goGetterServer.model.converter.user.UserConverter
+udodog/goGetterServer/repository/DiscussionBoardRepository.java
+ udodog.goGetterServer.repository.DiscussionBoardRepository
+udodog/goGetterServer/model/dto/request/manager/MemberJoinCountRequestDto.java
+ udodog.goGetterServer.model.dto.request.manager.MemberJoinCountRequestDto
+udodog/goGetterServer/service/user/SessionService.java
+ udodog.goGetterServer.service.user.SessionService
+udodog/goGetterServer/controller/interceptor/UserApiInterceptor.java
+ udodog.goGetterServer.controller.interceptor.UserApiInterceptor
+udodog/goGetterServer/repository/querydsl/message/MessageQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.message.MessageQueryRepository
+udodog/goGetterServer/model/dto/response/manager/visuallization/MemberJoinVisuallizationResponseDto.java
+ udodog.goGetterServer.model.dto.response.manager.visuallization.MemberJoinVisuallizationResponseDto
+udodog/goGetterServer/config/SpringSecurityConfig.java
+ udodog.goGetterServer.config.SpringSecurityConfig
+udodog/goGetterServer/service/discussion/DiscussionService.java
+ udodog.goGetterServer.service.discussion.DiscussionService
+udodog/goGetterServer/model/converter/bookreport/BookReportPagingConverter.java
+ udodog.goGetterServer.model.converter.bookreport.BookReportPagingConverter
+udodog/goGetterServer/repository/querydsl/disccussion/DiscussionBoardQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.disccussion.DiscussionBoardQueryRepository
+udodog/goGetterServer/model/dto/request/sharingboard/CreateBoardRequest.java
+ udodog.goGetterServer.model.dto.request.sharingboard.CreateBoardRequest
+udodog/goGetterServer/model/converter/event/EventConverter.java
+ udodog.goGetterServer.model.converter.event.EventConverter
+udodog/goGetterServer/repository/AdvertisementManagementRepository.java
+ udodog.goGetterServer.repository.AdvertisementManagementRepository
+udodog/goGetterServer/model/converter/sharingboard/SharingListConverter.java
+ udodog.goGetterServer.model.converter.sharingboard.SharingListConverter
+udodog/goGetterServer/model/dto/request/bookreporttag/BookReportTagUpdateRequestDto.java
+ udodog.goGetterServer.model.dto.request.bookreporttag.BookReportTagUpdateRequestDto
+udodog/goGetterServer/model/dto/response/discussion/DiscussionDetailResponse.java
+ udodog.goGetterServer.model.dto.response.discussion.DiscussionDetailResponse
+udodog/goGetterServer/model/entity/QSharingBoardReply.java
+ udodog.goGetterServer.model.entity.QSharingBoardReply
+udodog/goGetterServer/repository/MessageRepository.java
+ udodog.goGetterServer.repository.MessageRepository
+udodog/goGetterServer/model/entity/QUser.java
+ udodog.goGetterServer.model.entity.QUser
+udodog/goGetterServer/model/dto/request/sharingboard/LikeUserRequest.java
+ udodog.goGetterServer.model.dto.request.sharingboard.LikeUserRequest
+udodog/goGetterServer/model/converter/discussion/DiscussionReplyListConverter.java
+ udodog.goGetterServer.model.converter.discussion.DiscussionReplyListConverter
+udodog/goGetterServer/config/SpringAsyncConfig.java
+ udodog.goGetterServer.config.SpringAsyncConfig
+udodog/goGetterServer/controller/api/mypage/MyPageController.java
+ udodog.goGetterServer.controller.api.mypage.MyPageController
+udodog/goGetterServer/model/dto/request/event/EventCreateRequestDto.java
+ udodog.goGetterServer.model.dto.request.event.EventCreateRequestDto
+ udodog.goGetterServer.model.dto.request.event.EventCreateRequestDto$EventBuilder
+udodog/goGetterServer/repository/querydsl/nationwidelibraryInfo/NationwidelibraryInfoQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.nationwidelibraryInfo.NationwidelibraryInfoQueryRepository
+udodog/goGetterServer/service/coupon/CouponService.java
+ udodog.goGetterServer.service.coupon.CouponService
+udodog/goGetterServer/controller/api/nationwidelibraryinfo/NationwideLibraryInfoController.java
+ udodog.goGetterServer.controller.api.nationwidelibraryinfo.NationwideLibraryInfoController
+udodog/goGetterServer/model/entity/QSharingBoardLike.java
+ udodog.goGetterServer.model.entity.QSharingBoardLike
+udodog/goGetterServer/controller/interceptor/BkUserApiInterceptor.java
+ udodog.goGetterServer.controller.interceptor.BkUserApiInterceptor
+udodog/goGetterServer/repository/DiscussionBoardReadhitRepository.java
+ udodog.goGetterServer.repository.DiscussionBoardReadhitRepository
+udodog/goGetterServer/model/entity/SharingBoard.java
+ udodog.goGetterServer.model.entity.SharingBoard
+ udodog.goGetterServer.model.entity.SharingBoard$SharingBoardBuilder
+udodog/goGetterServer/service/event/EventService.java
+ udodog.goGetterServer.service.event.EventService
+udodog/goGetterServer/controller/api/discussion/DiscussionController.java
+ udodog.goGetterServer.controller.api.discussion.DiscussionController
+udodog/goGetterServer/model/entity/QBookReport.java
+ udodog.goGetterServer.model.entity.QBookReport
+udodog/goGetterServer/repository/SharingBoardRepository.java
+ udodog.goGetterServer.repository.SharingBoardRepository
+udodog/goGetterServer/repository/querydsl/disccussion/DiscussionBoardReadhitQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.disccussion.DiscussionBoardReadhitQueryRepository
+udodog/goGetterServer/controller/api/token/ReplaceTokenController.java
+ udodog.goGetterServer.controller.api.token.ReplaceTokenController
+udodog/goGetterServer/model/dto/response/nationwidelibraryinfo/NationwidelibraryInfoResponseDto.java
+ udodog.goGetterServer.model.dto.response.nationwidelibraryinfo.NationwidelibraryInfoResponseDto
+udodog/goGetterServer/model/dto/request/event/EventUpdateRequestDto.java
+ udodog.goGetterServer.model.dto.request.event.EventUpdateRequestDto
+udodog/goGetterServer/model/dto/request/message/MessageNotificationRequest.java
+ udodog.goGetterServer.model.dto.request.message.MessageNotificationRequest
+udodog/goGetterServer/controller/api/message/MessageSenderController.java
+ udodog.goGetterServer.controller.api.message.MessageSenderController
+udodog/goGetterServer/model/dto/request/manager/MemberUpdateGradeRequestDto.java
+ udodog.goGetterServer.model.dto.request.manager.MemberUpdateGradeRequestDto
+udodog/goGetterServer/repository/CouponUseHistoryRepository.java
+ udodog.goGetterServer.repository.CouponUseHistoryRepository
+udodog/goGetterServer/controller/interceptor/AdmApiInterceptor.java
+ udodog.goGetterServer.controller.interceptor.AdmApiInterceptor
+udodog/goGetterServer/controller/api/oauth/OauthController.java
+ udodog.goGetterServer.controller.api.oauth.OauthController
+udodog/goGetterServer/service/manager/UserSearchService.java
+ udodog.goGetterServer.service.manager.UserSearchService
+udodog/goGetterServer/controller/api/bookreport/BookReportController.java
+ udodog.goGetterServer.controller.api.bookreport.BookReportController
+udodog/goGetterServer/model/enumclass/UserGrade.java
+ udodog.goGetterServer.model.enumclass.UserGrade
+udodog/goGetterServer/controller/api/sharingboard/SharingReplyController.java
+ udodog.goGetterServer.controller.api.sharingboard.SharingReplyController
+udodog/goGetterServer/service/oauth/OauthService.java
+ udodog.goGetterServer.service.oauth.OauthService
+udodog/goGetterServer/model/entity/DiscussionBoardReply.java
+ udodog.goGetterServer.model.entity.DiscussionBoardReply
+ udodog.goGetterServer.model.entity.DiscussionBoardReply$DiscussionBoardReplyBuilder
+udodog/goGetterServer/model/entity/QDiscussionBoard.java
+ udodog.goGetterServer.model.entity.QDiscussionBoard
+udodog/goGetterServer/model/converter/discussion/DiscussionConverter.java
+ udodog.goGetterServer.model.converter.discussion.DiscussionConverter
+udodog/goGetterServer/controller/api/sharingboard/SharingBoardLikeController.java
+ udodog.goGetterServer.controller.api.sharingboard.SharingBoardLikeController
+udodog/goGetterServer/model/converter/nationwidelibraryinfo/NationwidelibraryLocationInfoPagingConverter.java
+ udodog.goGetterServer.model.converter.nationwidelibraryinfo.NationwidelibraryLocationInfoPagingConverter
+udodog/goGetterServer/controller/ExceptionAdvisor.java
+ udodog.goGetterServer.controller.ExceptionAdvisor
+udodog/goGetterServer/repository/MessageRoomRepository.java
+ udodog.goGetterServer.repository.MessageRoomRepository
+udodog/goGetterServer/controller/api/event/EventController.java
+ udodog.goGetterServer.controller.api.event.EventController
+udodog/goGetterServer/model/dto/request/coupon/CouponCreateRequestDto.java
+ udodog.goGetterServer.model.dto.request.coupon.CouponCreateRequestDto
+ udodog.goGetterServer.model.dto.request.coupon.CouponCreateRequestDto$CouponBuilder
+udodog/goGetterServer/model/entity/AdvertisementManagement.java
+ udodog.goGetterServer.model.entity.AdvertisementManagement
+ udodog.goGetterServer.model.entity.AdvertisementManagement$AdvertisementManagementBuilder
+udodog/goGetterServer/service/user/UserService.java
+ udodog.goGetterServer.service.user.UserService
+udodog/goGetterServer/model/dto/ModelMapperTestDTO.java
+ udodog.goGetterServer.model.dto.ModelMapperTestDTO
+ udodog.goGetterServer.model.dto.ModelMapperTestDTO$ModelMapperTestDTOBuilder
+udodog/goGetterServer/service/sharingboard/SharingBoardService.java
+ udodog.goGetterServer.service.sharingboard.SharingBoardService
+udodog/goGetterServer/model/entity/Event.java
+ udodog.goGetterServer.model.entity.Event
+ udodog.goGetterServer.model.entity.Event$EventBuilder
+udodog/goGetterServer/controller/SampleController.java
+ udodog.goGetterServer.controller.SampleController
+udodog/goGetterServer/model/dto/response/nationwidelibraryinfo/NationwidelibraryInfoDetailResponseDto.java
+ udodog.goGetterServer.model.dto.response.nationwidelibraryinfo.NationwidelibraryInfoDetailResponseDto
+udodog/goGetterServer/service/message/MessageFindAllService.java
+ udodog.goGetterServer.service.message.MessageFindAllService
+udodog/goGetterServer/model/dto/response/user/UserFindEmailResponseDto.java
+ udodog.goGetterServer.model.dto.response.user.UserFindEmailResponseDto
+udodog/goGetterServer/model/dto/request/discussion/DiscussionInsertRequestDto.java
+ udodog.goGetterServer.model.dto.request.discussion.DiscussionInsertRequestDto
+ udodog.goGetterServer.model.dto.request.discussion.DiscussionInsertRequestDto$DiscussionBoardBuilder
+udodog/goGetterServer/model/dto/Pagination.java
+ udodog.goGetterServer.model.dto.Pagination
+ udodog.goGetterServer.model.dto.Pagination$PaginationBuilder
+udodog/goGetterServer/service/message/MessageSenderService.java
+ udodog.goGetterServer.service.message.MessageSenderService
+udodog/goGetterServer/repository/querydsl/bookReport/BookReportQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.bookReport.BookReportQueryRepository
+udodog/goGetterServer/service/message/MessageNotificationService.java
+ udodog.goGetterServer.service.message.MessageNotificationService
+udodog/goGetterServer/model/dto/request/sharingboard/CreateSharingReplyRequest.java
+ udodog.goGetterServer.model.dto.request.sharingboard.CreateSharingReplyRequest
+udodog/goGetterServer/model/dto/request/sharingboard/UpdateSharingReplyRequest.java
+ udodog.goGetterServer.model.dto.request.sharingboard.UpdateSharingReplyRequest
+udodog/goGetterServer/model/dto/request/nationwidelibraryinfo/NationwideLibraryInfoInsertReqeustDto.java
+ udodog.goGetterServer.model.dto.request.nationwidelibraryinfo.NationwideLibraryInfoInsertReqeustDto
+ udodog.goGetterServer.model.dto.request.nationwidelibraryinfo.NationwideLibraryInfoInsertReqeustDto$NationwideLibraryInfoBuilder
+udodog/goGetterServer/model/converter/manager/ManagerConverter.java
+ udodog.goGetterServer.model.converter.manager.ManagerConverter
+udodog/goGetterServer/repository/querydsl/EventQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.EventQueryRepository
+udodog/goGetterServer/model/entity/SharingBoardLike.java
+ udodog.goGetterServer.model.entity.SharingBoardLike
+ udodog.goGetterServer.model.entity.SharingBoardLike$SharingBoardLikeBuilder
+udodog/goGetterServer/repository/querydsl/disccussion/DiscussionBoardReplyQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.disccussion.DiscussionBoardReplyQueryRepository
+udodog/goGetterServer/repository/BookReportRepository.java
+ udodog.goGetterServer.repository.BookReportRepository
+udodog/goGetterServer/model/converter/bookreport/BookReportConverter.java
+ udodog.goGetterServer.model.converter.bookreport.BookReportConverter
+udodog/goGetterServer/config/JpaAuditingConfig.java
+ udodog.goGetterServer.config.JpaAuditingConfig
+udodog/goGetterServer/service/oauth/social/FacebookOauth.java
+ udodog.goGetterServer.service.oauth.social.FacebookOauth
+udodog/goGetterServer/model/dto/response/sharingboard/BoardResponse.java
+ udodog.goGetterServer.model.dto.response.sharingboard.BoardResponse
+udodog/goGetterServer/model/dto/response/event/DetailEventResponseDto.java
+ udodog.goGetterServer.model.dto.response.event.DetailEventResponseDto
+udodog/goGetterServer/model/utils/MailHandler.java
+ udodog.goGetterServer.model.utils.MailHandler
+udodog/goGetterServer/model/dto/response/mypage/MyPageResponseDto.java
+ udodog.goGetterServer.model.dto.response.mypage.MyPageResponseDto
+udodog/goGetterServer/service/oauth/social/SocialOauth.java
+ udodog.goGetterServer.service.oauth.social.SocialOauth
+udodog/goGetterServer/model/entity/UserConnection.java
+ udodog.goGetterServer.model.entity.UserConnection
+ udodog.goGetterServer.model.entity.UserConnection$UserConnectionBuilder
+udodog/goGetterServer/model/dto/response/coupon/selectbox/CouponSelectBoxResponseDto.java
+ udodog.goGetterServer.model.dto.response.coupon.selectbox.CouponSelectBoxResponseDto
+udodog/goGetterServer/model/entity/MessageRoomJoin.java
+ udodog.goGetterServer.model.entity.MessageRoomJoin
+ udodog.goGetterServer.model.entity.MessageRoomJoin$MessageRoomJoinBuilder
+udodog/goGetterServer/model/dto/request/message/MessageSenderRequestDto.java
+ udodog.goGetterServer.model.dto.request.message.MessageSenderRequestDto
+udodog/goGetterServer/service/sharingboard/SharingReplyService.java
+ udodog.goGetterServer.service.sharingboard.SharingReplyService
+udodog/goGetterServer/model/dto/response/sharingboard/SimpleBoardResponse.java
+ udodog.goGetterServer.model.dto.response.sharingboard.SimpleBoardResponse
+udodog/goGetterServer/service/sharingboard/SharingBoardLikeService.java
+ udodog.goGetterServer.service.sharingboard.SharingBoardLikeService
+udodog/goGetterServer/controller/api/coupon/selectbox/CouponSelectBoxController.java
+ udodog.goGetterServer.controller.api.coupon.selectbox.CouponSelectBoxController
+udodog/goGetterServer/model/dto/response/sharingboard/WriterInfo.java
+ udodog.goGetterServer.model.dto.response.sharingboard.WriterInfo
+ udodog.goGetterServer.model.dto.response.sharingboard.WriterInfo$WriterInfoBuilder
+udodog/goGetterServer/model/entity/User.java
+ udodog.goGetterServer.model.entity.User
+ udodog.goGetterServer.model.entity.User$UserBuilder
+udodog/goGetterServer/model/dto/request/bookreport/BookreportInsertRequestDto.java
+ udodog.goGetterServer.model.dto.request.bookreport.BookreportInsertRequestDto
+ udodog.goGetterServer.model.dto.request.bookreport.BookreportInsertRequestDto$BookReportBuilder
+udodog/goGetterServer/controller/api/user/UserController.java
+ udodog.goGetterServer.controller.api.user.UserController
+udodog/goGetterServer/config/SwaggerConfig.java
+ udodog.goGetterServer.config.SwaggerConfig
+udodog/goGetterServer/service/sharingboard/SharingBoardWeeklyBestService.java
+ udodog.goGetterServer.service.sharingboard.SharingBoardWeeklyBestService
+udodog/goGetterServer/model/entity/DiscussionBoardReadhit.java
+ udodog.goGetterServer.model.entity.DiscussionBoardReadhit
+ udodog.goGetterServer.model.entity.DiscussionBoardReadhit$DiscussionBoardReadhitBuilder
+udodog/goGetterServer/model/dto/response/sharingboard/SharingReplyResponse.java
+ udodog.goGetterServer.model.dto.response.sharingboard.SharingReplyResponse
+udodog/goGetterServer/model/converter/manager/ManagerListConverter.java
+ udodog.goGetterServer.model.converter.manager.ManagerListConverter
+udodog/goGetterServer/repository/MessageRoomJoinRepository.java
+ udodog.goGetterServer.repository.MessageRoomJoinRepository
+udodog/goGetterServer/model/entity/QDiscussionBoardReply.java
+ udodog.goGetterServer.model.entity.QDiscussionBoardReply
+udodog/goGetterServer/model/dto/request/bookreporttag/BookReportTagInsertRequestDto.java
+ udodog.goGetterServer.model.dto.request.bookreporttag.BookReportTagInsertRequestDto
+udodog/goGetterServer/model/dto/response/message/findall/MessageFindAllResponseDto.java
+ udodog.goGetterServer.model.dto.response.message.findall.MessageFindAllResponseDto
+udodog/goGetterServer/repository/SharingBoardTagRepository.java
+ udodog.goGetterServer.repository.SharingBoardTagRepository
+udodog/goGetterServer/model/dto/response/discussion/DiscussionResponseDto.java
+ udodog.goGetterServer.model.dto.response.discussion.DiscussionResponseDto
+udodog/goGetterServer/controller/api/discussion/DiscussionReplyController.java
+ udodog.goGetterServer.controller.api.discussion.DiscussionReplyController
+udodog/goGetterServer/model/entity/CouponUseHistory.java
+ udodog.goGetterServer.model.entity.CouponUseHistory
+ udodog.goGetterServer.model.entity.CouponUseHistory$CouponUseHistoryBuilder
+udodog/goGetterServer/model/utils/JwtUtil.java
+ udodog.goGetterServer.model.utils.JwtUtil
+udodog/goGetterServer/model/dto/response/bookreport/BookReportDetailResponseDto.java
+ udodog.goGetterServer.model.dto.response.bookreport.BookReportDetailResponseDto
+udodog/goGetterServer/model/dto/response/discussion/DiscussionReplyResponse.java
+ udodog.goGetterServer.model.dto.response.discussion.DiscussionReplyResponse
+udodog/goGetterServer/model/dto/request/user/UserSignUpRequestDto.java
+ udodog.goGetterServer.model.dto.request.user.UserSignUpRequestDto
+ udodog.goGetterServer.model.dto.request.user.UserSignUpRequestDto$UserBuilder
+udodog/goGetterServer/model/entity/QAdvertisementManagement.java
+ udodog.goGetterServer.model.entity.QAdvertisementManagement
+udodog/goGetterServer/model/converter/mypage/MyPageConverter.java
+ udodog.goGetterServer.model.converter.mypage.MyPageConverter
+udodog/goGetterServer/model/entity/NationwideLibraryInfo.java
+ udodog.goGetterServer.model.entity.NationwideLibraryInfo
+ udodog.goGetterServer.model.entity.NationwideLibraryInfo$NationwideLibraryInfoBuilder
+udodog/goGetterServer/model/entity/QNationwideLibraryInfo.java
+ udodog.goGetterServer.model.entity.QNationwideLibraryInfo
+udodog/goGetterServer/repository/querydsl/sharingboard/SharingBoardExtension.java
+ udodog.goGetterServer.repository.querydsl.sharingboard.SharingBoardExtension
+udodog/goGetterServer/model/entity/DiscussionBoard.java
+ udodog.goGetterServer.model.entity.DiscussionBoard
+ udodog.goGetterServer.model.entity.DiscussionBoard$DiscussionBoardBuilder
+udodog/goGetterServer/model/dto/response/bookreport/BookreportResponseDto.java
+ udodog.goGetterServer.model.dto.response.bookreport.BookreportResponseDto
+udodog/goGetterServer/service/oauth/social/GoogleOauth.java
+ udodog.goGetterServer.service.oauth.social.GoogleOauth
+udodog/goGetterServer/service/nationwidelibraryinfo/NationwidelibraryInfoService.java
+ udodog.goGetterServer.service.nationwidelibraryinfo.NationwidelibraryInfoService
+udodog/goGetterServer/model/converter/sharingboard/SharingReplyConverter.java
+ udodog.goGetterServer.model.converter.sharingboard.SharingReplyConverter
+udodog/goGetterServer/repository/querydsl/bookReport/BookReportTagQueryRepository.java
+ udodog.goGetterServer.repository.querydsl.bookReport.BookReportTagQueryRepository
+udodog/goGetterServer/model/entity/SharingBoardTag.java
+ udodog.goGetterServer.model.entity.SharingBoardTag
+udodog/goGetterServer/service/mypage/MyPageService.java
+ udodog.goGetterServer.service.mypage.MyPageService
+udodog/goGetterServer/model/entity/QDiscussionBoardReadhit.java
+ udodog.goGetterServer.model.entity.QDiscussionBoardReadhit
+udodog/goGetterServer/model/converter/discussion/DiscussionListConverter.java
+ udodog.goGetterServer.model.converter.discussion.DiscussionListConverter
+udodog/goGetterServer/repository/UserConnectionRepository.java
+ udodog.goGetterServer.repository.UserConnectionRepository
+udodog/goGetterServer/controller/api/SessionController.java
+ udodog.goGetterServer.controller.api.SessionController
+udodog/goGetterServer/model/dto/response/event/EventsResponseDto.java
+ udodog.goGetterServer.model.dto.response.event.EventsResponseDto
+udodog/goGetterServer/model/converter/manager/ManagerPagingConverter.java
+ udodog.goGetterServer.model.converter.manager.ManagerPagingConverter
+udodog/goGetterServer/config/QuerydslConfig.java
+ udodog.goGetterServer.config.QuerydslConfig
+udodog/goGetterServer/model/converter/EntityToModelConvertor.java
+ udodog.goGetterServer.model.converter.EntityToModelConvertor
+udodog/goGetterServer/model/entity/QBookReportTag.java
+ udodog.goGetterServer.model.entity.QBookReportTag
+udodog/goGetterServer/repository/BookReportTagRepository.java
+ udodog.goGetterServer.repository.BookReportTagRepository
+udodog/goGetterServer/model/converter/nationwidelibraryinfo/NationwidelibraryInfoPagingConverter.java
+ udodog.goGetterServer.model.converter.nationwidelibraryinfo.NationwidelibraryInfoPagingConverter
+udodog/goGetterServer/model/entity/Message.java
+ udodog.goGetterServer.model.entity.Message
+ udodog.goGetterServer.model.entity.Message$MessageBuilder
+udodog/goGetterServer/model/entity/BookReport.java
+ udodog.goGetterServer.model.entity.BookReport
+ udodog.goGetterServer.model.entity.BookReport$BookReportBuilder
+udodog/goGetterServer/model/dto/response/message/MessageNotificationResponse.java
+ udodog.goGetterServer.model.dto.response.message.MessageNotificationResponse
+udodog/goGetterServer/controller/api/manager/UserManagementController.java
+ udodog.goGetterServer.controller.api.manager.UserManagementController
+udodog/goGetterServer/model/entity/MessageRoom.java
+ udodog.goGetterServer.model.entity.MessageRoom
